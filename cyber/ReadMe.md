@@ -28,5 +28,5 @@ The synthetic data generation pipeline is fully programmatic and follows these s
 ## 📂 Repository Structure
 
 * **`generate_logs.py`**: Script for generating the synthetic data using the LLM API.
-* **`synthetic_datasets/`**: Directory containing the 10 generated CSV files.
+* **`synthetic_datasets/`**: Directory containing the generated CSV files.
 * **`Data_Analysis.ipynb`**: Jupyter notebook for analysis and benchmarking.
